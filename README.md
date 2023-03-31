@@ -12,9 +12,9 @@ El primer ejercicio hemos creado una clase la cual contiene diferentes métodos 
 
 ### HERENCIA
 
-El segudno ejercicio practicamos herencia creado una clase de tipo Vehiculos el cual se subdivide en camión y ciclomotor.
+El segundo ejercicio practicamos herencia creado una clase de tipo Vehiculos el cual se subdivide en camión y ciclomotor.
 
 ## DISTRIBUCION DE PAQUETES
-Estos ejercicios estan organizados en una distribución de paquetes donde cada ejercicio se encuentra en un paquete y sobretodo el de herencia, separando la clase padre de la clase hijas.
+Estos ejercicios estan organizados en una distribución de paquetes donde cada ejercicio se encuentra en un paquete y sobretodo el de herencia, separando la clase padre de la clase hijas.S
 
 
